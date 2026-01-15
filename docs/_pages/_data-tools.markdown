@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Tools
-permalink: _data-tools/
+permalink: data-tools/
 ---
 
 The tools here handle several different scenarios in our data pipeline workflow, including:
@@ -13,7 +13,7 @@ The tools here handle several different scenarios in our data pipeline workflow,
     [New & Updated Election Data](/docs/new-election-data.md).
 
 *   Publishing our data -- This process takes the dataset files in `dra-data`, packages them up, and
-    adds them to our publc-facing data repositories (`vtd_data` and `block_data`).
+    adds them to our public-facing data repositories (`vtd_data` and `block_data`).
     The process of publishing data is described in detail in 
     [Publishing CSV & GeoJSON Data](/docs/publishing-data.md).
 
