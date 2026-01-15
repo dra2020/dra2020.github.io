@@ -20,7 +20,7 @@ theme: minima
 #  - jekyll-feed
 sass:
   sass_dir: _sass
-include: ['_pages', _data-tools]
+include: ['_pages', _index]
 # markdown: kramdown
 kramdown:
   input: GFM
