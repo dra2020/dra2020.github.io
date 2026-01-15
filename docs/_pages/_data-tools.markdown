@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Tools
-permalink: data-tools/
+permalink: _data-tools/
 ---
 
 The tools here handle several different scenarios in our data pipeline workflow, including:

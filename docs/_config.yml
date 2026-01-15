@@ -6,7 +6,7 @@ author:
   email: feedback@davesredistricting.org
 description: >- # this means to ignore newlines until "baseurl:"
   A site for internal DRA documentation
-# baseurl: /
+baseurl: /
 url: https://dra2020.github.io/
 twitter_username: dra2020
 github_username:  dra2020

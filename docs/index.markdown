@@ -2,5 +2,4 @@
 layout: default
 ---
 
-* Initial setup
-* Hidden link
+* Take 3 ...
