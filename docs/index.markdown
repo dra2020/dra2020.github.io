@@ -2,4 +2,4 @@
 layout: default
 ---
 
-* Mucking w/ styles
+* Mucking w/ styles ...
